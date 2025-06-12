@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm tarkin88!
+
+## 🧑‍💻 Python Backend Engineer
+
+- 🔥 Passionate about building robust, scalable backend systems.
+- 💼 Python enthusiast specializing in **Django** and **FastAPI**.
+- ⚙️ Loves automating the boring stuff with **Bash** scripts.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, Javascript, Bash
+- **Frameworks:** Django, FastAPI, React
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **Tools:** Git, Docker
+- **OS:** Proudly using **Arch Linux** (btw 😉)
+- **Window Manager:** Niri WM devotee
+
+---
+
+### 🚀 About Me
+
+- I thrive on automating workflows and everyday tasks—why do it twice when you can script it?
+- Minimalist at heart, obsessed with simplicity and efficiency in both code and environment.
+- Always tinkering, always learning.
+
+---
+
+### 💡 How I Work
+
+- I value clean, readable code and thoughtful architecture.
+- Collaboration and open communication are at the core of my workflow—feedback is always welcome!
+- I'm constantly iterating: shipping early, improving often.
+
+---
 
 <!--
-**tarkin88/tarkin88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+If you’d like to connect, let me know what links to add!
 -->
