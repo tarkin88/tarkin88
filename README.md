@@ -1,4 +1,4 @@
-# 👋 Hi, I'm tarkin88!
+# 👋 Hi, I'm Francisco Suarez (a.k.a tarkin88) !
 
 ## 🧑‍💻 Python Backend Engineer
 
