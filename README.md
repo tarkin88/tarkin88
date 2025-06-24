@@ -13,9 +13,9 @@
 - **Languages:** Python, Javascript, Bash
 - **Frameworks:** Django, FastAPI, React
 - **Databases:** PostgreSQL, MongoDB, Redis
-- **Tools:** Git, Docker
+- **Tools:** Git, Docker, Kubernetes
 - **OS:** Proudly using **Arch Linux** (btw 😉)
-- **Window Manager:** Niri WM devotee
+- **Window Manager:** [Dusk](https://github.com/bakkeby/dusk) WM devotee. 
 
 ---
 
